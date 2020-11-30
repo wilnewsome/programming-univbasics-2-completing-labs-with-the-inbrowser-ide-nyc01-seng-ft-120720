@@ -1,3 +1,4 @@
+puts "Hello World!"
 require 'spec_helper'
 
 describe 'lib/your_solution.rb' do
